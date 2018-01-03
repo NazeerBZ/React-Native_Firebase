@@ -1,5 +1,5 @@
 # APK download:
-https://downloads.buddybuild.com/api/download/download-apk?buildID=59d3725d04661e0001d9b4f9&application_variant=release&download_token=b775677e-1cec-4d75-bfa0-f882cdab2810
+https://downloads.buddybuild.com/api/download/download-apk?buildID=59d9a9e459f07d00012636d5&application_variant=release&download_token=0756a21a-3b2d-4b95-9640-0080e7f31580
 
 # README #
 
